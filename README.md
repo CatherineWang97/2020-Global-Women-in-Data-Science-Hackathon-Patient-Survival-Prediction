@@ -3,12 +3,14 @@
 ### Modeling in Subgroups: One Model or Many?
 
 
-#### Goal: build a model to predict patient survival given these ICU visit information, and take a practical approach to evaluating the question of which modeling strategy leads to the most effective predictions. (More specifically, I designed an experiment to answer the question of whether to use one model or many models.)
+#### Goal: 
+build a model to predict patient survival given these ICU visit information, and take a practical approach to evaluating the question of which modeling strategy leads to the most effective predictions. (More specifically, I designed an experiment to answer the question of whether to use one model or many models.)
 
 
 
 
-#### Large data sets can include a variety of subgroups. The qualities of these subgroups may be quite different from each other. Each subgroup may have a different relationship between the outcome and the predictors in a supervised learning model. This raises a question of how to generate the best predictions. Some options (among others) would include:
+#### Background:
+Large data sets can include a variety of subgroups. The qualities of these subgroups may be quite different from each other. Each subgroup may have a different relationship between the outcome and the predictors in a supervised learning model. This raises a question of how to generate the best predictions. Some options (among others) would include:
 
 • One Model: All of the subgroups are aggregated into a single data set that is used to inform the construction of a single model.
 

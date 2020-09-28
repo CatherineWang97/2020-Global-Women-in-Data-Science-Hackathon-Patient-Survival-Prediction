@@ -1,4 +1,4 @@
-# 2020 Global Women in Data Science hackathon Patient Survival Prediction
+# 2020 Global Women in Data Science Hackathon Patient Survival Prediction
 
 ### Modeling in Subgroups: One Model or Many?
 
